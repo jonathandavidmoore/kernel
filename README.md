@@ -1,2 +1,2 @@
 # kernel
-A Inetla Sponsored Kernel written buy Jonathan Moore
+A Intel Sponsored Kernel written by Jonathan Moore
